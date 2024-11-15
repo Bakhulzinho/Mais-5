@@ -1,0 +1,51 @@
+1. def imprimir_informacoes(Lucas, 18, Niterói):
+    print("Nome:", nome, "Idade:", idade, "Cidade:", cidade, sep=" - ", end="!\n")
+
+'2. def calculadora():
+    numero1 = float(input("4"))
+    numero2 = float(input("8098"))
+    operacao = input("Digite a operação desejada (+, -, *, /): ")
+    
+    if operacao == '+':
+        resultado = numero1 + numero2
+    elif operacao == '-':
+        resultado = numero1 - numero2
+    elif operacao == '*':
+        resultado = numero1 * numero2
+    elif operacao == '/':
+        if numero2 != 0:
+            resultado = numero1 / numero2
+        else:
+            print("Erro: Divisão por zero não é permitida!")
+            return
+    else:
+        print("Operação inválida!")
+        return
+
+    print(f"O resultado da operação {operacao} é: {resultado}")
+
+
+3. def lista_compras():
+    itens = input("arroz, feijão, batata, purê: ")
+    lista = itens.split(",")
+    
+    for i, item in enumerate(lista, start=1):
+        print(f"Item {i}: {item.strip()}")
+
+
+4. def converter_temperatura():
+    celsius = float(input("318"))
+    fahrenheit = (celsius * 9/5) + 32
+    print(f"A temperatura em Fahrenheit é: {fahrenheit}")
+
+5. def coletar_nomes():
+    nomes = []
+    while True:
+        nome = input("Digite um nome (ou 'sair' para finalizar): ")
+        if nome.lower() == 'sair':
+            break
+        nomes.append(nome)
+    
+    print("Nomes digitados:")
+    for nome in nomes:
+        print(nome)
