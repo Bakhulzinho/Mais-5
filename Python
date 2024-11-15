@@ -1,0 +1,8 @@
+for numero in range(1, 100):  
+    
+    if numero % 2 == 0:  
+        print(f"{numero} é par")
+    else:
+        print(f"{numero} é ímpar")
+
+C:\Users\lucascamposm\Pictures\Capturar.PNG ( Caminho da imagem para comprovar a execução do código )
