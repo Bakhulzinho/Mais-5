@@ -1,0 +1,7 @@
+Ao meu entendimento, os Data Centers são usados para salvar e armazenar dados para mais fácil acesso posteriormente.
+Os Data Centers se comunicam com a LGPD diretamente por causa da proteção que ela assegura para os dados armazenados de cada usuário. Ref: https://thriveti.com.br
+
+Um FORMATO ABERTO, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Ex: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório); LaTeX (uma linguagem de documentação); Json (uma linguagem de documentação).
+Os FORMATO PROPRIETÁRIOs são, na verdade, controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar, já que não teria outro sistema capaz de processá-los. Ref: https://biblus.accasoftware.com
+Ex: DOC - Microsoft Word Document; DWG - AutoCad Drawing; MP3 - MPEG Audio Layer 3.
